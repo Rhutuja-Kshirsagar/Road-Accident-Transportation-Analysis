@@ -1,108 +1,132 @@
-# 🚦 Road Accident Transportation Analytics
+# Road Accident Transportation Analytics and Incident Visualization System
 
-## 📌 Project Overview
+## Data Visualization Internship Project
 
-This project focuses on analyzing **road accident data in the transportation domain** using data visualization and analytics techniques.
+This repository contains the documentation, analysis, dashboards, and milestone presentations for our **Road Accident Transportation Analytics project**, developed as part of the **Data Visualization Internship**.
 
-The project was developed as part of the **Infosys Springboard Data Visualization Internship**. The main objective is to transform raw accident data into meaningful visual insights that can help identify accident-prone areas, major risk factors, incident response performance, and operational coverage.
+## Project Overview
 
-## 🎯 Objectives
+The project focuses on analyzing **road accident data** and creating meaningful visualizations to identify accident hotspots, accident severity, major contributing factors, high-risk areas, incident response performance, and resource deployment patterns.
 
-* Identify **accident hotspots** and high-risk areas.
-* Analyze the major **factors contributing to road accidents**.
-* Understand accident patterns based on weather, road conditions, lighting, junction types, and other factors.
-* Evaluate **incident response performance**.
-* Analyze **resource deployment and operational coverage**.
-* Provide an interactive dashboard for better decision-making.
-* Use forecasting and visual analytics to identify potential future trends.
+The project uses interactive dashboards to transform raw transportation data into meaningful insights that can support **road safety planning and data-driven decision-making**.
 
-## 🛠️ Tools & Technologies
+## Dataset
 
-* **Power BI**
-* **Microsoft Excel**
-* **Data Visualization**
-* **Data Analytics**
-* **Power BI Forecasting**
-* **Interactive Slicers & Filters**
+The project uses a road accident dataset containing information related to:
 
-## 📊 Dashboard Analysis
+* Accident Severity
+* Accident Location / Area
+* Causes of Accidents
+* Weather Conditions
+* Light Conditions
+* Road Surface Conditions
+* Types of Junction
+* Vehicle and Road Information
+* Incident / Response Information
+* Other transportation-related accident attributes
 
-### 1. Hotspot Intelligence
+## Milestones
 
-Identifies areas with a high concentration of road accidents and helps highlight accident-prone locations.
+### Milestone 1
 
-### 2. Multi-Factor Risk Surface
+Project documentation, problem identification, domain understanding, and initial project planning.
 
-Analyzes accidents using multiple factors such as:
+### Milestone 2
 
-* Area of accident
-* Cause of accident
-* Weather conditions
-* Light conditions
-* Road surface conditions
-* Junction type
-* Accident severity
+Data understanding and preprocessing, including data cleaning, handling missing values, data types, outliers, and preparation of the dataset for visualization and analysis.
 
-### 3. Incident Response Performance
+### Milestone 3
 
-Analyzes incident-related information to understand response performance and identify areas requiring operational improvement.
+Advanced data visualization and transportation risk analysis using Power BI.
 
-### 4. Resource Deployment & Operational Coverage
+The analysis focuses on:
 
-Examines whether resources and operational coverage are appropriately distributed across high-risk areas.
+* **Hotspot Intelligence Maps**
+* **Multi-Factor Risk Surface**
+* **Incident Response Performance**
+* **Resource Deployment & Operational Coverage**
+* Accident severity and contributing factors
+* High-risk locations and accident patterns
 
-### 5. Predictive & Trend Analysis
+### Milestone 4
 
-Uses Power BI visualization and forecasting capabilities to identify accident trends and support future risk assessment.
+Final dashboard development and advanced analytics using Power BI.
 
-## 🔍 Key Insights
+The dashboard provides an interactive view of road accident risks and helps identify important patterns for transportation safety and operational decision-making.
 
-The dashboard helps users understand:
+## Tools & Technologies
 
-* Where accidents occur most frequently.
-* Which factors contribute most to serious and fatal accidents.
-* How environmental and road conditions influence accident severity.
-* Which locations require greater safety attention.
-* Where operational resources may need better allocation.
-* Potential accident trends based on historical data.
+* Power BI
+* Microsoft Excel
+* Data Visualization
+* Data Analytics
+* Data Preprocessing
+* Power BI Forecasting
+* Interactive Dashboards
+* Slicers and Filters
 
-## 📁 Project Structure
+## Key Analysis
 
-```text
-road-accident-transportation-analytics/
-│
-├── PowerBI/
-│   └── Road_Accident_Analysis.pbix
-│
-├── Dataset/
-│   └── road_accident_dataset.xlsx
-│
-├── Screenshots/
-│   ├── Dashboard_1.png
-│   ├── Dashboard_2.png
-│   ├── Dashboard_3.png
-│   └── Dashboard_4.png
-│
-├── Documentation/
-│   └── Project_Report.pdf
-│
-└── README.md
-```
+### 🚨 Accident Hotspots
 
-## 📈 Expected Outcome
+Identifies locations and areas with a high concentration of road accidents.
 
-The project provides an interactive **Road Accident Analytics Dashboard** that converts accident data into actionable insights.
+### ⚠️ Risk Factor Analysis
 
-It can support transportation and safety teams in:
+Analyzes how factors such as weather, road surface, lighting, junction type, and accident causes contribute to accident severity.
 
-* Identifying high-risk locations
-* Understanding accident causes
-* Improving safety planning
-* Optimizing resource allocation
-* Monitoring incident response
-* Supporting data-driven decision-making
+### 📊 Accident Severity Analysis
 
-## 🎓 Internship
+Examines serious and fatal incidents to understand where and why high-severity accidents occur.
+
+### ⏱️ Incident Response Performance
+
+Analyzes response-related information to evaluate operational performance and identify areas for improvement.
+
+### 🗺️ Resource Deployment
+
+Helps understand whether operational resources and coverage are appropriately distributed across high-risk areas.
+
+### 🔮 Trend & Forecast Analysis
+
+Uses Power BI forecasting and visual analytics to identify accident trends and support future risk assessment.
+
+## Dashboard Features
+
+The Power BI dashboard includes:
+
+* KPI Cards
+* Interactive Charts
+* Maps
+* Decomposition Tree
+* Scatter Plots
+* Trend Analysis
+* Forecasting
+* Slicers
+* Cross-filtering
+* Interactive Risk Analysis
+
+## Project Outcome
+
+The project provides an interactive **Road Accident Transportation Analytics Dashboard** that converts accident data into actionable insights.
+
+It helps users:
+
+* Identify accident-prone locations
+* Understand major causes of accidents
+* Analyze serious and fatal incidents
+* Identify high-risk conditions
+* Evaluate incident response
+* Improve resource allocation
+* Support transportation safety decisions
+
+## Project Team
+
+### Team 4
+
+This project was developed collaboratively as part of the **Data Visualization Internship**.
+
+## Internship
 
 **Infosys Springboard – Data Visualization Internship**
 
@@ -110,7 +134,9 @@ It can support transportation and safety teams in:
 
 **Project:** Road Accident Transportation Analytics
 
-## 👩‍💻 Author
+**Team:** Team 4
+
+## Author
 
 **Rhutuja Kshirsagar**
 
